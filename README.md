@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @devikach1113
 - 👀 I’m interested in coding...
 - 🌱 I’m currently learning Full Stack Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 198r1a05i9@gmail.com
 
 <!---
